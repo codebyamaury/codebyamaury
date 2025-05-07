@@ -3,7 +3,7 @@
 </h1>
 
 <!-- GIF alineado a la derecha con tamaño 300px como el ejemplo -->
-<img align="right" width="230px" alt="Unicorn" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdkajZid2lrM2hkODVyZnd3dHNkeTk5ZW4zdXg1cDNkeDRnN2p6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" />
+<img align="right" width="210px" alt="Unicorn" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdkajZid2lrM2hkODVyZnd3dHNkeTk5ZW4zdXg1cDNkeDRnN2p6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mí***
 
