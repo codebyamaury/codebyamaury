@@ -8,7 +8,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mí***
 
 Soy un **desarrollador de software** con experiencia en múltiples tecnologías.  
-Me apasiona aprender constantemente y mejorar mis habilidades. Actualmente trabajo con tecnologías como **HTML, CSS, JavaScript, Python, PHP, TypeScript**, y frameworks como **React, Bootstrap, Next.js, Vue.js**, entre otros.
+Me apasiona aprender constantemente y mejorar mis habilidades.
 
 - 🌱 Siempre estoy buscando aprender y explorar nuevas tecnologías.
 - 👯 Me encanta colaborar en proyectos open source y mejorar como desarrollador.
